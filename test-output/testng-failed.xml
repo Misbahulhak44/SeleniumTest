@@ -6,7 +6,6 @@
       <class name="com.page.BaseClass">
         <methods>
           <include name="firstTest"/>
-          <include name="driverLoad"/>
         </methods>
       </class> <!-- com.page.BaseClass -->
     </classes>
